@@ -1,0 +1,2 @@
+Este texto contiene los inicios de una control de versión.
+Este ira aumentando según vaya incrementando el CVS
